@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "name": "fcc-filing-monitor",
+  "version": "0.1.0",
+  "description": "FCC filing and spectrum intelligence — polls ECFS filings, spectrum allocations, satellite/earth station licenses, experimental authorizations, equipment certifications, and ULS records. Tracks new satellite constellation filings, spectrum auction results, Part 5 experimental licenses, and regulatory changes affecting space operations. Cross-references ITU filings and NTIA spectrum assignments.",
+  "author": "the-lobsternaut",
+  "license": "MIT",
+  "inputFormats": ["application/json"],
+  "outputFormat": "application/octet-stream",
+  "tags": ["fcc", "spectrum", "regulatory", "satellite-license", "ecfs", "uls", "filing", "osint"]
+}
